@@ -21,6 +21,7 @@ Checkout the live [demo.](http://k8s-default-app-36be2af907-2062528699.us-east-1
 - Uses GitHub actions to automate Continuous Integration
 - Runs cypress as the testing framework
 - Pushes image to ECR repository
+- Big Shout out to [Alexander Solovyev](https://github.com/supromikali/react-three-obj-loader) for base app
 
 ```text
 Note: Because this is demo I wanted to serve the 
