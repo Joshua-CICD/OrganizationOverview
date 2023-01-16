@@ -55,5 +55,5 @@ make this repo all encapsulating.
 3. It would be really cool if this project could create an extension
 for blender that would allow you to upload your .obj file directly.
 
-# Infrastructure
+### Infrastructure
 1. Add a nice domain name and SSL certificate.
