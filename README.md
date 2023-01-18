@@ -48,6 +48,10 @@ make this repo all encapsulating.
 2. Add image/code scanning to the CI (frontend/backend)
 3. Add yaml linting to the CI (flux)
 4. Add a CI/CD pipeline for the (infrastructure)
+5. Implement some kind of Canary deployments.
+6. Add acceptance tests
+7. Add load tests
+8. Add End-2-End tests
 
 ### App Improvements
 1. Add database for storing multiple .obj files
@@ -57,3 +61,4 @@ for blender that would allow you to upload your .obj file directly.
 
 ### Infrastructure
 1. Add a nice domain name and SSL certificate.
+2. Add prometheus for system monitoring and alerting
