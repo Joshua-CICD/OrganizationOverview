@@ -5,7 +5,7 @@
 </p>
 
 
-Checkout the live [demo.](http://k8s-default-app-36be2af907-2062528699.us-east-1.elb.amazonaws.com/)
+Checkout the live [demo.](http://k8s-default-frontend-c4df8c4667-269237282.us-east-1.elb.amazonaws.com/)
 
 # Projects
 
@@ -22,12 +22,6 @@ Checkout the live [demo.](http://k8s-default-app-36be2af907-2062528699.us-east-1
 - Runs cypress as the testing framework
 - Pushes image to ECR repository
 - Big Shout out to [Alexander Solovyev](https://github.com/supromikali/react-three-obj-loader) for base app
-
-```text
-Note: Because this is demo I wanted to serve the 
-files with a python server. But in reality I would 
-make this repo all encapsulating.
-```
 
 [backend](https://github.com/Joshua-CICD/backend)
 
