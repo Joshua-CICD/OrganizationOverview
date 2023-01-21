@@ -4,7 +4,7 @@
     <img src="./assets/app_demo.gif" width="75%" height="50%" />
 </p>
 
-
+** Taken down to save $$ it was costing $5 a day **
 Checkout the live [demo.](http://k8s-default-frontend-c4df8c4667-269237282.us-east-1.elb.amazonaws.com/)
 
 # Projects
